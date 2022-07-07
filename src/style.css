@@ -1,1 +1,42 @@
-/* styles go here */
+.section-form {
+  margin-bottom: 20px;
+  display: block;
+}
+
+.personItem {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.personItem:last-child {
+  display: block;
+  margin-bottom: 0;
+}
+
+.registrItem {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.registrItem:last-child {
+  display: block;
+  margin-bottom: 0;
+}
+
+.aboutItem {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.aboutItem:last-child {
+  margin-bottom: 0;
+}
+
+.addItem {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.addItem:last-child {
+  margin-bottom: 0;
+}
